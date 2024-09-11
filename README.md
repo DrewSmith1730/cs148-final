@@ -1,2 +1,4 @@
-# cs148-final
-CS148 Final project to bring all material from the course together
+# Final-Matthew-McCarthy
+# Drew Smith
+# Aiden Davidson
+https://mmccar25.w3.uvm.edu/cs148/live-final/
